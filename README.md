@@ -8,7 +8,7 @@ I enjoy learning by building real projects, experimenting with new technologies,
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 * 🐍 Building practical projects with **Python**
 * 📊 Learning **Data Analysis** with Pandas, Streamlit, and Plotly
@@ -19,7 +19,7 @@ I enjoy learning by building real projects, experimenting with new technologies,
 * Learning Backend Engineering for Ai apps, Rag systems, Ai Agents and Production Ai Engineering
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Languages
 
@@ -61,7 +61,7 @@ A Python utility that reads log files and analyzes different log levels such as 
 
 ---
 
-## 📚 My Learning Journey
+##  My Learning Journey
 
 **Python Fundamentals**
 ↓
@@ -75,7 +75,7 @@ A Python utility that reads log files and analyzes different log levels such as 
 
 ---
 
-## 🎯 Current Goal
+##  Current Goal
 
 My goal is to continuously improve my programming and AI development skills by building practical projects and documenting my learning journey here on GitHub.
 
